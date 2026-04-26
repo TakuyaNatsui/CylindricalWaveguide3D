@@ -4,7 +4,7 @@ An interactive 3D visualization tool for electromagnetic fields in a cylindrical
 
 円筒導波管内における電磁界分布を、解析解に基づいて3次元空間上でリアルタイムに可視化・探索できるツールです。
 
-![Main Interface](https://raw.githubusercontent.com/USER_NAME/REPO_NAME/main/results/sample_screenshot.png) *(Note: Replace this link with your actual screenshot after uploading)*
+![Main Interface](sample_screenshot.png) *(Note: Replace this link with your actual screenshot after uploading)*
 
 ## Features | 特徴
 
